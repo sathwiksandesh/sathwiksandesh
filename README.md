@@ -8,7 +8,7 @@
 
 <!-- ======================= INTRO ======================= -->
 
-<h1 align="center">👋 Hey, I'm Sandesh!</h1>
+<h1 align="center">👋 Hey, I'm Siddhantam Sathwik Sandesh!</h1>
 
 <h3 align="center">
 Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder

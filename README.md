@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Sandesh%20Sathwiks&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20Student&amp;descAlignY=55&amp;descSize=20" width="100%"/>
-
-</div>
 
 <h1 align="center">👋 Hey, I'm Siddhantam Sathwik Sandesh!</h1>
 

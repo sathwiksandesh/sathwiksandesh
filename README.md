@@ -38,7 +38,7 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,r"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,mysql,r"/>
 
 </p>
 
@@ -70,14 +70,16 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 
 </p>
 
-### 🌐 Development & Frameworks
+### 🌐 Frameworks
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,fastapi,nodejs"/>
 
 </p>
-
+### Development Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=eclipse,anaconda,vscode"/>
 ### ☁️ Cloud & Tools
 
 <p align="center">

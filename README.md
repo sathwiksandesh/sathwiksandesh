@@ -87,8 +87,6 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp"/>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -167,18 +165,6 @@ AI-powered study assistant designed to help students understand concepts and imp
 Python • Streamlit • OpenAI API
 
 </td>
-
-<td width="50%" valign="top">
-
-### ✈️ WanderTales
-
-Story-driven AI travel planner that creates personalized travel experiences and itineraries.
-
-**Tech:**  
-AI • LLMs • Python • Generative AI
-
-</td>
-
 </tr>
 
 </table>
@@ -226,19 +212,6 @@ AI • LLMs • Python • Generative AI
 <img src="https://github-profile-trophy.vercel.app/?username=sathwiksandesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%"/>
 
 </div>
-
----
-
-# 🎓 Certifications & Learning
-
-| Certification / Goal | Status |
-|---|---|
-| 🤖 Microsoft Azure AI Fundamentals | 📚 Preparing |
-| 🐙 GitHub Foundations | 📚 Preparing |
-| ☁️ Cloud & AI | 🌱 Learning |
-| 🧠 Machine Learning | 🚀 Building |
-| 🤖 Generative AI | 🔥 Exploring |
-
 ---
 
 # 📚 Currently Learning

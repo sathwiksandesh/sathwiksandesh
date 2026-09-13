@@ -38,7 +38,7 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,r"/>
 
 </p>
 

@@ -1,18 +1,17 @@
-
 <h1 align="center">👋 Hey, I'm Siddhantam Sathwik Sandesh!</h1>
 
 <h3 align="center">
-Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Builder
+Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 </h3>
 
 <p align="center">
 
 <a href="https://github.com/sathwiksandesh">
-<img src="https://img.shields.io/github/followers/sathwiksandesh?label=Followers&amp;style=for-the-badge&amp;logo=github&amp;color=181717"/>
+<img src="https://img.shields.io/github/followers/sathwiksandesh?label=Followers&style=for-the-badge&logo=github&color=181717"/>
 </a>
 
 <a href="https://github.com/sathwiksandesh">
-<img src="https://img.shields.io/github/stars/sathwiksandesh?label=Stars&amp;style=for-the-badge&amp;logo=github&amp;color=yellow"/>
+<img src="https://img.shields.io/github/stars/sathwiksandesh?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
 </a>
 
 </p>
@@ -21,7 +20,7 @@ Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Buil
 
 ## 🧠 About Me
 
-🎓 I'm an **Artificial Intelligence &amp; Data Science student** passionate about building intelligent and practical software systems.
+🎓 I'm an **Artificial Intelligence & Data Science student** passionate about building intelligent and practical software systems.
 
 💡 I enjoy working at the intersection of **AI, Machine Learning, Data Science and Software Development**.
 
@@ -35,7 +34,7 @@ Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Buil
 
 ## 💻 Tech Stack
 
-### 🐍 Programming &amp; Data
+### 🐍 Programming & Data
 
 <p align="center">
 
@@ -51,29 +50,29 @@ Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Buil
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&amp;logo=matplotlib&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white"/>
 
 </p>
 
-### 🧠 Generative AI &amp; AI Tools
+### 🧠 Generative AI & AI Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logoColor=white"/>
 
 </p>
 
-### 🌐 Development &amp; Frameworks
+### 🌐 Development & Frameworks
 
 <p align="center">
 
@@ -81,7 +80,7 @@ Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Buil
 
 </p>
 
-### ☁️ Cloud &amp; Tools
+### ☁️ Cloud & Tools
 
 <p align="center">
 
@@ -89,9 +88,9 @@ Artificial Intelligence &amp; Data Science Student • ML Enthusiast • AI Buil
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
@@ -191,9 +190,9 @@ AI • LLMs • Python • Generative AI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathwiksandesh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sathwiksandesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwiksandesh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwiksandesh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 
 </div>
 
@@ -203,7 +202,7 @@ AI • LLMs • Python • Generative AI
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sathwiksandesh&amp;theme=tokyonight&amp;hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sathwiksandesh&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -213,7 +212,7 @@ AI • LLMs • Python • Generative AI
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwiksandesh&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwiksandesh&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" width="100%"/>
 
 </div>
 
@@ -223,19 +222,19 @@ AI • LLMs • Python • Generative AI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sathwiksandesh&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=5&amp;row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sathwiksandesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%"/>
 
 </div>
 
 ---
 
-# 🎓 Certifications &amp; Learning
+# 🎓 Certifications & Learning
 
 | Certification / Goal | Status |
 |---|---|
 | 🤖 Microsoft Azure AI Fundamentals | 📚 Preparing |
 | 🐙 GitHub Foundations | 📚 Preparing |
-| ☁️ Cloud &amp; AI | 🌱 Learning |
+| ☁️ Cloud & AI | 🌱 Learning |
 | 🧠 Machine Learning | 🚀 Building |
 | 🤖 Generative AI | 🔥 Exploring |
 
@@ -248,6 +247,7 @@ AI • LLMs • Python • Generative AI
 🧠 Machine Learning
 📊 Data Science
 ✨ Generative AI
-🔗 RAG &amp; LLM Applications
+🔗 RAG & LLM Applications
 ☁️ Cloud AI
-🐙 GitHub &amp; Open Source
+🐙 GitHub & Open Source
+```

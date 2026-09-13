@@ -49,10 +49,11 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy"/>
 
 <br><br>
-<img src="https://img.shields.io/badge/TENSORFLOW-red">
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit--Learn-red?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white"/>
 
 </p>

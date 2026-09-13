@@ -86,7 +86,7 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp"/>
-
+<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>

@@ -75,16 +75,19 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,fastapi,nodejs"/>
-
+ 
 </p>
+
 ### Development Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=eclipse,anaconda,vscode"/>
-### ☁️ Cloud & Tools
+</p>
+
+### Cloud & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,gcp"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp"/>
 
 <br><br>
 

@@ -55,7 +55,7 @@ Artificial Intelligence & Data Science Student • ML Enthusiast • AI Builder
 
 </p>
 
-### 🧠 Generative AI & AI Tools
+### 🧠 AI Tools
 
 <p align="center">
 

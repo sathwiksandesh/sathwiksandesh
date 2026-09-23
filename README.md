@@ -166,6 +166,19 @@ Python • Streamlit • OpenAI API
 
 </td>
 </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗳️ ElectIQ
+
+AI-powered assistant designed to simplify the election process for first-time voters and the general public.
+
+**Tech:**  
+React + Vite • TypeScript • OpenAI API
+
+</td>
+</tr>
 
 </table>
 

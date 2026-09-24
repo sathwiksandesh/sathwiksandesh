@@ -165,8 +165,6 @@ AI-powered study assistant designed to help students understand concepts and imp
 Python • Streamlit • OpenAI API
 
 </td>
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 

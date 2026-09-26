@@ -177,7 +177,17 @@ React + Vite • TypeScript • OpenAI API
 
 </td>
 </tr>
+<tr>
+ <td width="50%" valign="top">
+  
+  ### 🚗 Carlytics AI
+  An AI-powered used-car valuation platform that predicts the estimated market price of vehicles
+using machine learning, 
 
+**Tech:**  
+Next.js • FastAPI • Tailwind CSS • Jupyter Notebook • Pydantic
+ </td>
+</tr>
 </table>
 
 </div>
